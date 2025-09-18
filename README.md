@@ -17,4 +17,4 @@ this repository brings together all the material produced throughout my studies 
 ## ⭐ sumary
 <a href="https://github.com/HenriqueBagueixe/CursosdaAlura/tree/master/JavaPrimeiraAplicacao">Java: Creating your first application</a>
 
-<a href="https://github.com/HenriqueBagueixe/Numero-Secreto-Alura">Programming Logic: Dive into Programming with JavaScript</a>
+<a href="https://github.com/HenriqueBagueixe/CursosdaAlura/tree/master/NumeroSecretoJAVASCRIPT">Programming Logic: Dive into Programming with JavaScript</a>
