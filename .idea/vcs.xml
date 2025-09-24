@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/AcharMaiorNumero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/CalculadoraFatorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/ContandoPositivoNegativo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/NomeValido" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/PularN5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/SomaDeNumeros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/SomaPares" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/SubindoDegraus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA/JavaLacosDeRepeticao/TentativasDeLogin" vcs="Git" />
+  </component>
+</project>
